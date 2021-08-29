@@ -36,5 +36,8 @@ public class ProductInfoTest extends BaseTest{
 		softAssert.assertAll();
 	}
 	
+	public void sampleGitVerify() {
+		
+	}
 	
 }
